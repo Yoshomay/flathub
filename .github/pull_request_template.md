@@ -8,12 +8,11 @@
 
 <!-- 💡 Please tick and write 'N/A' with a reason if a checklist item below is not applicable 💡 -->
 
-- [ ] Please describe the application briefly. < Please insert the description here >
-- [ ] Please attach a video showcasing the application on Linux using the Flatpak. < Please insert the video here >
-- [ ] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
-- [ ] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.
-- [ ] I am an _(please keep whichever is applicable and remove the rest)_ author/developer/upstream contributor to the project.
-      If not, I contacted upstream developers about this submission. **Link:**
+- [X] Please describe the application briefly. A desktop version of the original Simon toy
+- [X] Please attach a video showcasing the application on Linux using the Flatpak. https://github.com/user-attachments/assets/034b2abe-2f5f-4fa5-9eaa-2a58977e3b04
+- [X] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
+- [X] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.
+- [X] I am an author/developer/upstream contributor to the project.
 
 <!-- 💡 Please mention below the GitHub usernames of any additional maintainers needed (if any) 💡 -->
 
